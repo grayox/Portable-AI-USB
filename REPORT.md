@@ -1,4 +1,4 @@
-# Functionality and Security Report
+# Functionality & Security Report
 
 This report provides a comprehensive analysis of the repository's functionality, features, and a detailed security review, with a particular focus on the risk of malicious code.
 
